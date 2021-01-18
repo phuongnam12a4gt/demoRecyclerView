@@ -1,0 +1,2 @@
+package com.example.bottomnavigationandviewpager2.fragment
+
